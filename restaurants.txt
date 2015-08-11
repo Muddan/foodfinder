@@ -1,0 +1,7 @@
+Udupi	masala dosa	45
+McDonalds	Hamburger	88
+KFC	Chicken Burger	65
+Cafe	Cuupinchino	110
+Punjabi grill	BUtter naan	40
+food joint	fast food	30
+shanthi sagar	south indian meal	250
