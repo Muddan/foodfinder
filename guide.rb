@@ -138,5 +138,4 @@ class Guide
     puts "No listings found" if restaurants.empty?
     puts "-" * 60
   end
-  hello
 end
